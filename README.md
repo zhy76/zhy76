@@ -1,10 +1,6 @@
 ## Hey 👋, I'm zhy76!  
 ![Profile views counter](https://komarev.com/ghpvc/?username=zhy76&&style=flat-square)  
 
-<a href="https://github.com/zhy76" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>  
-
 ### Glad to see you here!  
 <br/>  
 

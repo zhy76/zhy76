@@ -1,7 +1,5 @@
-## Hey 👋, I'm zhy76!  
+# Hey 👋, I'm zhy76!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
 ![Profile views counter](https://komarev.com/ghpvc/?username=zhy76&&style=flat-square)  
-
-### Glad to see you here!  
 <br/>  
 
 ## Rapidfire  

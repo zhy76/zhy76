@@ -2,18 +2,11 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=zhy76&&style=flat-square)  
 
 <a href="https://github.com/zhy76" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
-  
-  
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -33,14 +26,10 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zhy76&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhy76&show_icons=true&count_private=true&hide_border=true" align="right"/>
 </div>  
-
-
 </td></tr></table>  
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  

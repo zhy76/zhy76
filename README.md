@@ -1,18 +1,14 @@
 # Hey 👋, I'm zhy76!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
-![Profile views counter](https://komarev.com/ghpvc/?username=zhy76&&style=flat-square)  
-<br/>  
+<b>You are my ![Visitor Count](https://profile-counter.glitch.me/zhy76/count.svg)th visitor😇</b>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently studying in ZJU  
-  
 
 - 🌱 I’m currently learning k8s, Golang and algorithm  
-  
 
 - 👀 I’m interested in cloud computing, cloud native, os, k8s  
-  
 
 - ⚡ Keep progressing  
 
@@ -22,8 +18,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zhy76&show_icons=true&count_private=true&hide_border=true" align="right"/>
 </div>  
-</td></tr></table>  
-<br/>  
+</td></tr></table>   
 
 ## Languages and Tools  
 <div align="center">  
@@ -40,8 +35,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-</div>  
-<br/>  
+</div>   
 
 
   

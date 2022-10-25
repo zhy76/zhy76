@@ -14,7 +14,7 @@
 - 🔭 I’m currently studying in ZJU  
   
 
-- 🌱 I’m currently learning Kubernetes, Golang and algorithm  
+- 🌱 I’m currently learning k8s, Golang and algorithm  
   
 
 - 👀 I’m interested in cloud computing, cloud native, os, k8s  

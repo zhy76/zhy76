@@ -1,6 +1,7 @@
 # Hey 👋, I'm zhy76!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
 <b>You are my ![Visitor Count](https://profile-counter.glitch.me/zhy76/count.svg)th visitor😇</b>
 
+<img src="https://img.shields.io/github/followers/zhy76?logo=github">
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 

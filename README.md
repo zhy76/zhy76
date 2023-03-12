@@ -6,7 +6,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm now a postgraduate student in SEL Laboratory of Zhejiang University   
+- 🔭 I'm currently studying in SEL Laboratory of Zhejiang University   
 
 - 🌱 I'm currently learning k8s, Golang and algorithm  
 

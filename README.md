@@ -6,11 +6,11 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently studying in ZJU  
+- 🔭 I'm now a postgraduate student in SEL Laboratory of Zhejiang University   
 
-- 🌱 I’m currently learning k8s, Golang and algorithm  
+- 🌱 I'm currently learning k8s, Golang and algorithm  
 
-- 👀 I’m interested in cloud computing, cloud native, os, k8s  
+- 👀 I'm interested in cloud computing, cloud native, os, k8s, ebpf  
 
 - ⚡ Keep progressing  
 

@@ -1,4 +1,4 @@
-# Hey 👋, I'm zhy76!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
+# Hey 👋, I'm Haiyu Zuo!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
 <b>You are my ![Visitor Count](https://profile-counter.glitch.me/zhy76/count.svg)th visitor😇</b>
 
 <img src="https://img.shields.io/github/followers/zhy76?logo=github&label=Followers"> [![Steam](https://img.shields.io/badge/dynamic/json?color=%232B4A78&label=Steam&query=count&suffix=+games&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198914218480&logo=steam&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198914218480)

@@ -6,7 +6,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University   
+- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University, reviewer of Sealer  
 
 - 🌱 I'm currently learning Kubernetes, Golang and Algorithm  
 

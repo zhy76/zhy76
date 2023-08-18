@@ -6,11 +6,11 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently studying in SEL Laboratory of Zhejiang University   
+- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University   
 
-- 🌱 I'm currently learning k8s, Golang and algorithm  
+- 🌱 I'm currently learning Kubernetes, Golang and Algorithm  
 
-- 👀 I'm interested in cloud computing, cloud native, os, k8s, ebpf  
+- 👀 I'm interested in Cloud Native, Collocation, eBPF, Autoscaling
 
 - ⚡ Keep progressing  
 

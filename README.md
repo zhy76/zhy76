@@ -6,11 +6,11 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University, reviewer of Sealer  
+- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University, Member of Karmada, Reviewer of Sealer  
 
 - 🌱 I'm currently learning Kubernetes, Golang and Algorithm  
 
-- 👀 I'm interested in Cloud Native, Collocation, eBPF, Autoscaling
+- 👀 I'm interested in Cloud Native, Collocation, eBPF, Multi Cloud, AutoScaling, Scheduling
 
 - ⚡ Keep progressing  
 
